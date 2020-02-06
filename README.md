@@ -1,12 +1,12 @@
 ## Welcome to NoBugs!
 
-Here we'll learning everything about Software Testing. 
+Here you'll find my favorite links and learning everything about Software Testing. 
 
- ## Movies
+ ## _Rethinking your carreer_
  
  + [Rethinking the Developer Career Path – Randall Koutnik](https://www.youtube.com/watch?v=yIPbE7BssOs)
  
- ## PodCasts
+ ## _PodCasts_
  
  + [Um Sprint na vida de um Agile Tester feat. Fredão Moreira](https://soundcloud.com/agilebunker/005-um-sprint-na-vida-de-um-agile-tester-feat-fredao-moreira)
 + [TestCast Brasil](https://soundcloud.com/testcastbrasil)
@@ -255,7 +255,7 @@ Here we'll learning everything about Software Testing.
 + [Angular para Iniciantes - Thiago Adriano](https://www.linkedin.com/pulse/angular-para-iniciantes-thiago-adriano/)
 
 
-## _ Tips and Tools for day by day_
+## _Tips and Tools for day by day_
 
 + [Git - Guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 + [Comandos do Git que você deveria usar](https://code.likeagirl.io/comandos-do-git-que-voc%C3%AA-deveria-usar-98e80b4f7d98)
