@@ -127,7 +127,7 @@ Here you'll find my favorite links and learning everything about Software Testin
 + [Testing rest services with rest assured](https://www.ontestautomation.com/testing-rest-services-with-rest-assured/)
 + [API Testing Guide and Beginner’s Tips (SOAP & REST)](https://medium.com/katalon-studio/api-testing-guide-and-beginners-tips-soap-rest-8d33bf56225c)
 + [Testando APIs REST via linha de comando com HTTP REPL, VS Code, Swagger e .NET Core](https://medium.com/@renato.groffe/testando-apis-rest-via-linha-de-comando-com-http-repl-vs-code-swagger-e-net-core-393041dcea39)
-+[WebSwagger: Como gerar uma documentação interativa para API REST](http://www.matera.com/blog/post/swagger-como-gerar-uma-documentacao-interativa-para-api-rest) 
++ [WebSwagger: Como gerar uma documentação interativa para API REST](http://www.matera.com/blog/post/swagger-como-gerar-uma-documentacao-interativa-para-api-rest) 
 + [Iniciando com o POSTMAN](http://www.matera.com/blog/post/iniciando-com-o-postman)
 + [A anatomia de uma API RESTful](https://www.linkedin.com/pulse/anatomia-de-uma-api-restful-thiago-lima/)
 
@@ -213,7 +213,6 @@ Here you'll find my favorite links and learning everything about Software Testin
 + [Descomplicando a montagem de ambientes de Testes com Docker - QAXperience 2018](https://medium.com/@renato.groffe/descomplicando-a-montagem-de-ambientes-de-testes-com-docker-qaxperience-2018-e4698928a0ad)
 + [Docker on Windows — Mounting Host Directories](https://rominirani.com/docker-on-windows-mounting-host-directories-d96f3f056a2c)
 + [Docker para Desenvolvedores .NET - Guia de Referência](https://medium.com/@renato.groffe/docker-para-desenvolvedores-net-guia-de-refer%C3%AAncia-6f9bad2c244e)
-+ []()
 
 ## _Free courses / Developer Tutorials_
 
@@ -269,8 +268,3 @@ Here you'll find my favorite links and learning everything about Software Testin
 + [Entendendo de uma vez por todas Expressões Regulares](https://medium.com/katalon-studio/api-testing-guide-and-beginners-tips-soap-rest-8d33bf56225c)
 + [XPath Axes](https://www.w3schools.com/xml/xpath_axes.asp)
 + [Introduction To XPath Selenium XPath Examples](http://www.softwaretestingstudio.com/selenium-xpath-examples-introduction/)
-
-You can use the [editor on GitHub](https://github.com/r0nunes/nobugs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
