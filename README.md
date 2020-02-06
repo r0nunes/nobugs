@@ -4,7 +4,7 @@ Here we'll learning everything about Software Testing.
 
  ## Movies
  
- + [Rethinking the Developer Career Path – Randall Koutnik | The Lead Developer UK 2017](https://www.youtube.com/watch?v=yIPbE7BssOs)
+ + [Rethinking the Developer Career Path – Randall Koutnik](https://www.youtube.com/watch?v=yIPbE7BssOs)
  
  ## PodCasts
  
@@ -268,7 +268,7 @@ Here we'll learning everything about Software Testing.
 #### Regular Expression / XPath
 + [Entendendo de uma vez por todas Expressões Regulares](https://medium.com/katalon-studio/api-testing-guide-and-beginners-tips-soap-rest-8d33bf56225c)
 + [XPath Axes](https://www.w3schools.com/xml/xpath_axes.asp)
-+ [Introduction To XPath | Selenium XPath Examples](http://www.softwaretestingstudio.com/selenium-xpath-examples-introduction/)
++ [Introduction To XPath Selenium XPath Examples](http://www.softwaretestingstudio.com/selenium-xpath-examples-introduction/)
 
 You can use the [editor on GitHub](https://github.com/r0nunes/nobugs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
