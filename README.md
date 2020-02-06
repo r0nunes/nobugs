@@ -2,11 +2,11 @@
 
 Here you'll find my favorite links and learning everything about Software Testing. 
 
- ## _Rethinking your carreer_
+## _Rethinking your carreer_
  
  + [Rethinking the Developer Career Path – Randall Koutnik](https://www.youtube.com/watch?v=yIPbE7BssOs)
  
- ## _PodCasts_
+## _PodCasts_
  
  + [Um Sprint na vida de um Agile Tester feat. Fredão Moreira](https://soundcloud.com/agilebunker/005-um-sprint-na-vida-de-um-agile-tester-feat-fredao-moreira)
 + [TestCast Brasil](https://soundcloud.com/testcastbrasil)
