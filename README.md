@@ -1,4 +1,4 @@
-## Welcome to NoBugs!
+# Welcome to NoBugs!
 
 Here you'll find my favorite links and learning everything about Software Testing. 
 
